@@ -183,7 +183,7 @@ Inilah tampilan fitur Lihat Data :
 
 * Menambahkan Data <br>
 
-![hasil](isi%20foto/tambah%20data%20.png)
+![hasil](isi%20foto/tambah%20data.png)
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
