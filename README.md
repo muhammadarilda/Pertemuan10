@@ -11,7 +11,7 @@ Perhatikan Soal Berikut
 
 dan ini hasil dari source code diatas 
 ```python
-#SKUYS
+#SKUYSLIVIINGGG
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
